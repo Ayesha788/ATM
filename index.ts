@@ -1,4 +1,4 @@
-#! usr/bin/env node
+#! /usr/bin/env node
 import inquirer from "inquirer"; //node package manager
 let myBalance = 50000; //dollars
 let myPin = 82417;
